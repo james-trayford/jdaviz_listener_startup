@@ -20,7 +20,7 @@ We can set up an environment for this hacke inside the repository, using:
 
 and install all the relevant modules using:
 
-`pip install -r requirements_slim.txt`
+`pip install -r requirements.txt`
 
 This may take a while first time. After that, you may want to override things like `jdaviz` with local copies, say if we want to edit the library on the fly. 
 
