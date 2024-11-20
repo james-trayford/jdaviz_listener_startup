@@ -1,0 +1,12 @@
+strauss @ git+https://github.com/james-trayford/strauss@equal_loudness_normalisation
+Flask
+gunicorn
+flask-wtf
+Bottleneck
+spectral-cube
+specutils
+astropy
+matplotlib
+jdaviz @ git+https://github.com/james-trayford/jdaviz@sonify-plugin-updates-jt
+jupyterlab
+regions
