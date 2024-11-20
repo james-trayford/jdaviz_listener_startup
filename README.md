@@ -30,4 +30,6 @@ This may take a while first time. After that, you may want to override things li
 
 ### Notebooks
 
-We have a few notebooks as a starting point in the `./notebook/` directory.
+We have a notebook as a starting point in the `./notebook/` directory:
+
+`notebook/GettingStarted.ipynb`
