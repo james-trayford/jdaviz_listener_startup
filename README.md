@@ -1,8 +1,6 @@
 # jdaviz_listener_startup
 Getting Started with the JDAViz + STRAUSS listener functionality 
 
-# JDAViz - STRAUSS Hack day!
-
 You can clone this repository locally:
 
 `git clone git@github.com:james-trayford/jdaviz_listener_startup.git /path/to/your/directory`
