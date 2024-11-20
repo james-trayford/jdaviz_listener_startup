@@ -1,9 +1,13 @@
 # jdaviz_listener_startup
 Getting Started with the JDAViz + STRAUSS listener functionality 
 
-You can clone this repository locally:
+You can clone this repository locally. If you have SSH keys set up you can run:
 
 `git clone git@github.com:james-trayford/jdaviz_listener_startup.git /path/to/your/directory`
+
+Or just clone from the HTTP link as:
+
+`git clone https://github.com/james-trayford/jdaviz_listener_startup.git /path/to/your/directory`
 
 and then change directory:
 
