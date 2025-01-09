@@ -1,4 +1,4 @@
-strauss @ git+https://github.com/james-trayford/strauss@equal_loudness_normalisation
+strauss
 Flask
 gunicorn
 flask-wtf
@@ -7,6 +7,6 @@ spectral-cube
 specutils
 astropy
 matplotlib
-jdaviz @ git+https://github.com/james-trayford/jdaviz@sonify-plugin-updates-jt
+jdaviz @ git+https://github.com/james-trayford/jdaviz@sonification-plugin-tweaks
 jupyterlab
 regions
